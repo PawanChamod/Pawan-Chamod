@@ -30,7 +30,7 @@
 
 Hey! I'm **Pawan Chamod**, a Computer Science student from Sri Lanka.
 
-I'm interested in the intersection of **technology and creativity** — especially game development, artificial intelligence, software engineering, and storytelling.
+I'm interested in the intersection of **technology and creativity** especially game development, artificial intelligence, software engineering, and storytelling.
 
 I enjoy learning by building things, experimenting with new technologies, and turning ideas into actual projects.
 
